@@ -1,0 +1,49 @@
+---
+booktitle: Proceedings of The 8th Asian Conference on Machine Learning
+volume: 63
+year: '2016'
+shortname: ACML
+published: 2016-11-20
+start: 2016-11-16
+end: 2016-11-18
+sections:
+- name: preface
+  title: Front Matter
+- name: default
+  title: Accepted Papers
+layout: proceedings
+series: Proceedings of Machine Learning Research
+id: acml2016
+month: 0
+abstract: ''
+editor:
+- given: Robert J.
+  family: Durrant
+- given: Kee-Eung
+  family: Kim
+title: Proceedings of The 8th Asian Conference on Machine Learning
+email: ''
+description: Proceedings of The 8th Asian Conference on Machine Learning, The University
+  of Waikato, Hamilton, New Zealand
+url: http://proceedings.mlr.press
+baseurl: "/v63"
+twitter_username: mlresearch
+github_username: mlresearch
+markdown: kramdown
+permalink: "/:title.html"
+github:
+  edit: true
+  repository: v63
+conference:
+  name: Asian Conference on Machine Learning
+  url: http://www.acml-conf.org/2016/
+  location: The University of Waikato, Hamilton, New Zealand
+  dates:
+  - 2016-11-16
+  - 2016-11-17
+  - 2016-11-18
+analytics:
+  google:
+    tracking_id: UA-92432422-1
+# Site settings
+# Auto generated from v63.bib
