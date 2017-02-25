@@ -16,12 +16,13 @@ series: Proceedings of Machine Learning Research
 id: acml2016
 month: 0
 abstract: ''
+tex_title: 
+title: Proceedings of Machine Learning Research
 editor:
 - given: Robert J.
   family: Durrant
 - given: Kee-Eung
   family: Kim
-title: Proceedings of Machine Learning Research
 description: |
   Proceedings of The 8th Asian Conference on Machine Learning
     Held in The University of Waikato, Hamilton, New Zealand on 16-18 November 2016

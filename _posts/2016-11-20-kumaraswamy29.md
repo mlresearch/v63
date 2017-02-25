@@ -26,6 +26,7 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: kumaraswamy29
 month: 0
+tex_title: Bank of Weight Filters for Deep CNNs
 firstpage: 334
 lastpage: 349
 page: 334-349

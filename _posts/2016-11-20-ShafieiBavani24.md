@@ -19,6 +19,7 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: ShafieiBavani24
 month: 0
+tex_title: An Efficient Approach for Multi-Sentence Compression
 firstpage: 414
 lastpage: 429
 page: 414-429
