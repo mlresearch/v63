@@ -21,10 +21,20 @@ editor:
   family: Durrant
 - given: Kee-Eung
   family: Kim
-title: Proceedings of The 8th Asian Conference on Machine Learning
-email: ''
-description: Proceedings of The 8th Asian Conference on Machine Learning, The University
-  of Waikato, Hamilton, New Zealand
+title: Proceedings of Machine Learning Research
+description: |
+  Proceedings of The 8th Asian Conference on Machine Learning
+    Held in The University of Waikato, Hamilton, New Zealand on 16-18 November 2016
+
+  Published as Volume 63 by the Proceedings of Machine Learning Research on 20 November 2016.
+
+  Volume Edited by:
+    Robert J. Durrant
+    Kee-Eung Kim
+
+  Series Editors:
+    Neil D. Lawrence
+    Mark Reid
 url: http://proceedings.mlr.press
 baseurl: "/v63"
 twitter_username: mlresearch
@@ -34,6 +44,7 @@ permalink: "/:title.html"
 github:
   edit: true
   repository: v63
+email: ''
 conference:
   name: Asian Conference on Machine Learning
   url: http://www.acml-conf.org/2016/
