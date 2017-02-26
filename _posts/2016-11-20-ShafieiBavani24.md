@@ -23,7 +23,8 @@ tex_title: An Efficient Approach for Multi-Sentence Compression
 firstpage: 414
 lastpage: 429
 page: 414-429
-sections: 
+order: 414
+cycles: false
 author:
 - given: Elaheh
   family: ShafieiBavani

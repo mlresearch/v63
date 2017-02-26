@@ -30,7 +30,8 @@ tex_title: Bank of Weight Filters for Deep CNNs
 firstpage: 334
 lastpage: 349
 page: 334-349
-sections: 
+order: 334
+cycles: false
 author:
 - given: Suresh Kirthi
   family: Kumaraswamy
