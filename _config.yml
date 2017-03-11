@@ -61,6 +61,7 @@ conference:
   - 2016-11-16
   - 2016-11-17
   - 2016-11-18
+  number: 8
 analytics:
   google:
     tracking_id: UA-92432422-1
